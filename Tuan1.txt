@@ -1,0 +1,19 @@
+spring sử dụng các field trong properties như thế nào ? tại sao 
+có các configs nhưng vẫn có thể sử dụng song song 2 thứ ?
+--------------------------------------------------
+tim hieu ban chat spring implement java 
+tim hieu thread java - object java khac voi object spring nhu the nao 
+tim hieu stack - heap - java
+solid 7 nguyen tac 
+
+---------------------------------------------------
+viet config Database thanh class rieng 18/7
+swagger - truyen file cau hinh vao swagger su dung openapi 29/7
+cau hinh logging slf4j 30/7
+su dung stream() thay vi viet for 18/7
+viet DAO 18/7
+viet exception rieng ? 19/7
+logging - su dung slf4j 19/7
+jwt 22/7
+invalid du lieu - models 25/7
+mapper - input output 25/7

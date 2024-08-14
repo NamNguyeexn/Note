@@ -1,0 +1,11 @@
+singleton
+sso
+validation cho các customValid và cả các valid cơ bản như @Max, ..., yêu cầu cung cấp mã lỗi và đưa ra message
+sắp xếp lại các lớp, cần đưa mapper CHỈ SỬ DỤNG trong các lớp Controller và Service 
+cau hinh lai cac DTO HuminInput, de xuat sua thanh RegistFormInput/Output
+dat lai cac mappers cho dung vi tri 
+validation cho các customValid và cả các valid cơ bản như @Max, ..., yêu cầu cung cấp mã lỗi và đưa ra message
+viết exception cho các annotation valid có sẵn 
+các service là các singleton
+các annotation cũng là các singleton
+thử cố tái khởi tạo 1 annotation có sẵn và theo dõi sự thay đổi dữ liệu bên trong đó 
