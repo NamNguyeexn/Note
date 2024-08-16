@@ -1,4 +1,9 @@
-org/springframework/context/annotation/ConfigurationClassPostProcessor.java 449
-org/springframework/boot/SpringApplication.java 289 334 399 
-org/springframework/context/annotation/ClassPathBeanDefinitionScanner.java 297
+Debug listener - how listener create bean ?
+Class
+org/springframework/boot/SpringApplication.java
+Spring Application 
+getRunListeners - 465
+load - 699
+
+
 
