@@ -1,3 +1,0 @@
-org.springframework.context.annotation.Bean
-org.springframework.beans.factory.BeanFactory
-org/springframework/context/ApplicationContext.java
