@@ -1,0 +1,10 @@
+Unable to connect to host 127.0.0.1, or the request timed out.
+
+Be sure that the address is correct and that you have the necessary privileges, or try increasing the connection timeout (currently 10 seconds).
+
+MySQL said: Authentication plugin 'caching_sha2_password' cannot be loaded: dlopen(/usr/local/lib/plugin/caching_sha2_password.so, 0x0002): tried: '/usr/local/lib/plugin/caching_sha2_password.so' (no such file), '/usr/local/Cellar/mysql/9.0.1/lib/plugin/caching_sha2_password.so' (no such file)
+
+
+
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '123456aA@';
+FLUSH PRIVILEGES;
